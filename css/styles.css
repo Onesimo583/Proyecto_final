@@ -1,0 +1,212 @@
+/* Global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ajusta el tamaño de los elementos */
+}
+
+body {
+  font-family: Arial, sans-serif; /* Fuente general */
+  color: #333; /* Color del texto */
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between; /* Distribuye logo y menú */
+  align-items: center; /* Alineación vertical */
+  padding: 20px;
+  background-color: #282c34; /* Fondo oscuro */
+  color: #fff; /* Texto blanco */
+}
+
+header .logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+
+}
+header .logo a{
+  list-style-type: none;
+
+}
+
+header nav ul {
+  list-style-type: none;
+  display: inline-flex;
+  gap: 15px;
+}
+
+header nav a {
+  color: #fff; /* Color blanco para los enlaces */
+  text-decoration: none;
+  font-size: 1rem;
+  margin: 9px;
+}
+
+header nav a:hover {
+  list-style-type: none;
+  background-color: #25d366;
+  padding: 9px;
+  border-radius: 10px;
+}
+
+header .btn-contacto {
+  background-color: #25d366; /* WhatsApp verde */
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+}
+
+header .btn-contacto:hover {
+  background-color: #128c7e; /* Color más oscuro al pasar el mouse */
+}
+
+/* Hero Section */
+.hero {
+  display: flex;
+  flex-direction: column; /* Disposición vertical */
+  align-items: center; /* Centra elementos */
+  padding: 60px 20px;
+  background: #f4f4f9 url("laptop-background.jpg") no-repeat center/cover; /* Fondo con imagen */
+  color: #333;
+  text-align: center;
+}
+
+.hero h1 {
+
+  font-size: 2.5rem; /* Título grande */
+  margin: 1rem;
+}
+
+.hero p {
+  font-size: 1.2rem; /* Descripción */
+  margin: 1rem;
+
+}
+
+.hero .btn-cta {
+  background-color: #007bff; /* Color de fondo del botón */
+  color: #fff; /* Color de texto del botón */
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.1rem;
+}
+
+.hero .btn-cta:hover {
+  background-color: #0056b3; /* Color más oscuro al pasar el mouse */
+}
+
+/* Beneficios Section */
+.benefits {
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #007bff; /* Fondo azul */
+  color: #fff;
+}
+
+.benefit-item {
+  display: inline-block;
+  width: 28%; /* Ancho de cada beneficio */
+  margin: 10px;
+  background-color: #fff; /* Fondo blanco para cada ítem */
+  color: #333; /* Texto oscuro */
+  border-radius: 8px;
+  padding: 40px;
+
+  
+}
+
+.benefit-item h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.benefit-item p {
+  font-size: 1rem;
+}
+
+/* Catalog Section */
+.catalog {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.product-card {
+  display: inline-block;
+  width: 250px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f9f9f9; /* Fondo claro para la tarjeta */
+  border: 1px solid #ddd; /* Borde gris */
+  border-radius: 8px;
+  text-align: left;
+}
+
+.product-card img {
+  width: 100%; /* Imagen ajustada al ancho */
+  margin-bottom: 15px;
+}
+
+.product-card h3 {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+.product-card p {
+  font-size: 1rem;
+  padding: 2px 0;
+  margin-bottom: 10px;
+}
+
+.product-card .btn-whatsapp {
+  background-color: #25d366; /* WhatsApp verde */
+  color: white;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.product-card .btn-whatsapp:hover {
+  background-color: #128c7e; /* Color más oscuro al pasar el mouse */
+}
+
+/* Testimonials Section */
+.testimonials {
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #f4f4f9; /* Fondo claro */
+}
+
+.testimonial-item {
+  display: inline-block;
+  width: 35%; /* Ancho del testimonio */
+  margin: 10px;
+  background-color: #fff; /* Fondo blanco */
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
+  padding: 40px;
+  font-size: 1rem;
+}
+
+.testimonial-item p {
+  font-style: italic;
+}
+
+/* Footer */
+footer {
+  padding: 20px;
+  text-align: center;
+  background-color: #282c34; /* Fondo oscuro */
+  color: #fff;
+}
+
+footer a {
+  color: #ffc107; /* Color amarillo para los enlaces */
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline; /* Subraya al pasar el mouse */
+}
