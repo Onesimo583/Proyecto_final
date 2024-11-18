@@ -26,7 +26,8 @@ header .logo {
 
 }
 header .logo a{
-  list-style-type: none;
+  text-decoration: none;
+  color: #11f743;
 
 }
 
@@ -135,7 +136,7 @@ header .btn-contacto:hover {
 
 .product-card {
   display: inline-block;
-  width: 250px;
+  width: 280px;
   margin: 20px;
   padding: 20px;
   background-color: #f9f9f9; /* Fondo claro para la tarjeta */
@@ -155,9 +156,14 @@ header .btn-contacto:hover {
 }
 
 .product-card p {
-  font-size: 1rem;
-  padding: 2px 0;
+  font-size: 1.5rem;
+  padding: 15px 0;
   margin-bottom: 10px;
+}
+/*Laptop Features*/
+.Features{
+    padding: 10px;
+    line-height: 2rem;
 }
 
 .product-card .btn-whatsapp {
