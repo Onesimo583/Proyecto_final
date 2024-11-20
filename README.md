@@ -1,7 +1,7 @@
 # **Proyecto Final: Página Web Básica con HTML y CSS**
 
 ## **Descripción**
-Este proyecto es una página web básica creada como parte del proyecto final. La página utiliza **HTML** y **CSS** para mostrar contenido estático bien organizado. Está publicada en **GitHub Pages** como ejemplo práctico de cómo construir y compartir un sitio web.  
+Este proyecto es una página web básica creada como parte del proyecto final del Curso de FRONTEND de **DEV.F**. La página utiliza **HTML** y **CSS** para mostrar contenido estático bien organizado. Está publicada en **GitHub Pages** como ejemplo práctico de cómo construir y compartir un sitio web.  
 El objetivo es demostrar el entendimiento de como construir una pagina WEB y el uso de herramientas como **Git** y **GitHub**.
 
 ---
