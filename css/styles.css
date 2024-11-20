@@ -69,7 +69,6 @@ header .btn-contacto:hover {
   flex-direction: column; /* Disposición vertical */
   align-items: center; /* Centra elementos */
   padding: 60px 20px;
-  background: #f4f4f9 url("laptop-background.jpg") no-repeat center/cover; /* Fondo con imagen */
   color: #333;
   text-align: center;
 }
