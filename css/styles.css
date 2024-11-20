@@ -63,8 +63,8 @@ header .btn-contacto:hover {
   background-color: #128c7e; /* Color más oscuro al pasar el mouse */
 }
 
-/* Hero Section */
-.hero {
+/* Banner Section */
+.Banner {
   display: flex;
   flex-direction: column; /* Disposición vertical */
   align-items: center; /* Centra elementos */
@@ -73,19 +73,19 @@ header .btn-contacto:hover {
   text-align: center;
 }
 
-.hero h1 {
+.Banner h1 {
 
   font-size: 2.5rem; /* Título grande */
   margin: 1rem;
 }
 
-.hero p {
+.Banner p {
   font-size: 1.2rem; /* Descripción */
   margin: 1rem;
 
 }
 
-.hero .btn-cta {
+.Banner .btn-cta {
   background-color: #007bff; /* Color de fondo del botón */
   color: #fff; /* Color de texto del botón */
   padding: 15px 30px;
@@ -94,7 +94,7 @@ header .btn-contacto:hover {
   font-size: 1.1rem;
 }
 
-.hero .btn-cta:hover {
+.Banner .btn-cta:hover {
   background-color: #0056b3; /* Color más oscuro al pasar el mouse */
 }
 
