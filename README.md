@@ -9,12 +9,12 @@ El objetivo es demostrar el entendimiento de como construir una pagina WEB y el 
 ## **Estructura del Proyecto**
 La página está compuesta por varios archivos y carpetas, organizados de la siguiente manera: 
 
- css(styles.css )      # Hoja de estilos principal
-imagenes            # Carpeta para almacenar 
-about.html          # Página "Acerca de"
-catalog.html        # Página del Catálogo de productos.
-contact.html         # Página de Contacto
-index.html           # Página principal
+**css(styles.css )      # Hoja de estilos**
+**imagenes            # Carpeta para almacenar imagenes** 
+**about.html          # Página "Acerca de"**
+**catalog.html        # Página del Catálogo de productos.**
+**contact.html         # Página de Contacto**
+**index.html           # Página principal**
 
 ## Tecnologías Utilizadas
 **HTML5: Estructura básica de la página.**
@@ -25,14 +25,15 @@ index.html           # Página principal
 ## Publicación en GitHub Pages 
 
 **El sitio web está publicado y accesible en el siguiente enlace:**  
-
+https://onesimo583.github.io/Proyecto_final/
 
 ## Cómo Usar este Proyecto
 **1.- Clona el repositorio en tu maquina local.** 
 
 **2.- Abre el archivo index.html en tu navegador para ver la página localmente.**
 
-**3.- O simplemente visita el enlace de GitHub Pages proporcionado arriba.**
+**3.- O simplemente visita el enlace de GitHub Pages proporcionado arriba.** 
+
 
 ## Autor
 Desarrollado por [Onesimo]([Onesimo583](https://github.com/Onesimo583))
