@@ -8,14 +8,13 @@ El objetivo es demostrar el entendimiento de como construir una pagina WEB y el 
 
 ## **Estructura del Proyecto**
 La página está compuesta por varios archivos y carpetas, organizados de la siguiente manera: 
-.
-├── css/
-│   └── styles.css       # Hoja de estilos principal
-├── imagenes/            # Carpeta para almacenar imágenes
-├── about.html           # Página "Acerca de"
-├── catalog.html         # Página del Catálogo de productos
-├── contact.html         # Página de Contacto
-└── index.html           # Página principal
+
+ css(styles.css )      # Hoja de estilos principal
+imagenes            # Carpeta para almacenar 
+about.html          # Página "Acerca de"
+catalog.html        # Página del Catálogo de productos.
+contact.html         # Página de Contacto
+index.html           # Página principal
 
 ## Tecnologías Utilizadas
 **HTML5: Estructura básica de la página.**
