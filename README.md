@@ -28,9 +28,11 @@ index.html           # Página principal
 
 
 ## Cómo Usar este Proyecto
-1.- Clona el repositorio en tu maquina local.
-2.- Abre el archivo index.html en tu navegador para ver la página localmente.  
-3.- O simplemente visita el enlace de GitHub Pages proporcionado arriba.
+**1.- Clona el repositorio en tu maquina local.** 
+
+**2.- Abre el archivo index.html en tu navegador para ver la página localmente.**
+
+**3.- O simplemente visita el enlace de GitHub Pages proporcionado arriba.**
 
 ## Autor
 Desarrollado por [Onesimo]([Onesimo583](https://github.com/Onesimo583))
